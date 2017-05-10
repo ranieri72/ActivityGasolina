@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exercise01</string>
+    <string name="gasolina">Gas</string>
+    <string name="alcool">Ethanol</string>
+    <string name="calcular">Calculate</string>
+    <string name="NovaTela">New Screen</string>
+    <string name="resultado">The best choice is: </string>
+</resources>

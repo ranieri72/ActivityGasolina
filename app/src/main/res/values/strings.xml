@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ex1 Glauber</string>
+    <string name="gasolina">Gasolina</string>
+    <string name="alcool">Alcool</string>
+    <string name="calcular">Calcular</string>
+    <string name="NovaTela">Nova Tela</string>
+    <string name="resultado">A melhor opção é: </string>
+</resources>
